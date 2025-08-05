@@ -13,4 +13,4 @@ It's not the best method, but time constraints only allowed for so much in this 
 I faced a lot of syntax issues and declaration problems toward the beginning. Because I'm learning multiple coding languages, sometimes I fell short in coding fluent "Java-nese".
 I was consistent in attending class and missed less than 5 meetings and a few times helped classmates who messaged me during zoom lessons about reading assignments.
 ## Final Grade Proposal
-Based on the above, I propose A- as my final grade. I completed every assignment with effort/on time, engaged in reflection, and grew stronger in problem-solving, strategy, and recursion. I felt accomplished when all tests would pass with my given solutions and I’m proud of how far I've come and how much I understand now compared to Week 1-2. 
+Based on the above, I propose A- as my final grade. I completed every assignment with effort/on time, engaged in reflection, and grew stronger in problem-solving, strategy, and recursion. I felt accomplished when all tests would pass with my given solutions and I’m proud of how far I've come and how much I understand now compared to weeks 1-2. 
